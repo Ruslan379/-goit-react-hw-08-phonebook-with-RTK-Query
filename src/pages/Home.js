@@ -4,6 +4,8 @@ const styles = {
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
+        backgroundColor: "#ff8989"
+
     },
     title: {
         fontWeight: 500,
@@ -16,9 +18,9 @@ export default function Home() {
     return (
         <div style={styles.container}>
             <h1 style={styles.title}>
-                Welcome to the HW-8{' '}
+                Welcome to the HW-8 (with RTK Query){' '}
                 <span role="img" aria-label="Greeting icon">
-                    💁‍♀️
+                    💁
                 </span>
             </h1>
         </div>
