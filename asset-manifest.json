@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/goit-react-hw-08-phonebook_RTK-Query/static/css/main.5a8f06d1.css",
-    "main.js": "/goit-react-hw-08-phonebook_RTK-Query/static/js/main.9bd3ba5f.js",
-    "static/js/266.08d7c2fa.chunk.js": "/goit-react-hw-08-phonebook_RTK-Query/static/js/266.08d7c2fa.chunk.js",
+    "main.js": "/goit-react-hw-08-phonebook_RTK-Query/static/js/main.f4f9a6b7.js",
+    "static/js/266.5b9e79a5.chunk.js": "/goit-react-hw-08-phonebook_RTK-Query/static/js/266.5b9e79a5.chunk.js",
     "static/css/40.1e05f24e.chunk.css": "/goit-react-hw-08-phonebook_RTK-Query/static/css/40.1e05f24e.chunk.css",
     "static/js/40.517cd4a7.chunk.js": "/goit-react-hw-08-phonebook_RTK-Query/static/js/40.517cd4a7.chunk.js",
     "static/css/635.e2937cc9.chunk.css": "/goit-react-hw-08-phonebook_RTK-Query/static/css/635.e2937cc9.chunk.css",
@@ -12,8 +12,8 @@
     "static/js/270.b3c382c1.chunk.js": "/goit-react-hw-08-phonebook_RTK-Query/static/js/270.b3c382c1.chunk.js",
     "index.html": "/goit-react-hw-08-phonebook_RTK-Query/index.html",
     "main.5a8f06d1.css.map": "/goit-react-hw-08-phonebook_RTK-Query/static/css/main.5a8f06d1.css.map",
-    "main.9bd3ba5f.js.map": "/goit-react-hw-08-phonebook_RTK-Query/static/js/main.9bd3ba5f.js.map",
-    "266.08d7c2fa.chunk.js.map": "/goit-react-hw-08-phonebook_RTK-Query/static/js/266.08d7c2fa.chunk.js.map",
+    "main.f4f9a6b7.js.map": "/goit-react-hw-08-phonebook_RTK-Query/static/js/main.f4f9a6b7.js.map",
+    "266.5b9e79a5.chunk.js.map": "/goit-react-hw-08-phonebook_RTK-Query/static/js/266.5b9e79a5.chunk.js.map",
     "40.1e05f24e.chunk.css.map": "/goit-react-hw-08-phonebook_RTK-Query/static/css/40.1e05f24e.chunk.css.map",
     "40.517cd4a7.chunk.js.map": "/goit-react-hw-08-phonebook_RTK-Query/static/js/40.517cd4a7.chunk.js.map",
     "635.e2937cc9.chunk.css.map": "/goit-react-hw-08-phonebook_RTK-Query/static/css/635.e2937cc9.chunk.css.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.5a8f06d1.css",
-    "static/js/main.9bd3ba5f.js"
+    "static/js/main.f4f9a6b7.js"
   ]
 }
